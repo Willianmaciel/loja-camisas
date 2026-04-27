@@ -1,43 +1,58 @@
-# Loja de Camisas (loja-camisas)
+# Loja de Camisas de Futebol
 
-Catálogo de Camisas de Futebol
+Projeto de catálogo de camisas de futebol desenvolvido com Vue 3 + Quasar Framework.
 
-## Install the dependencies
+## Funcionalidades
+
+- 🔍 Busca de produtos
+- 🎯 Filtro por time
+- 📄 Paginação
+- 👀 Visualização em modal
+- 👕 Personalização de camisa (nome e número)
+- 🔄 Hover com troca de imagem (frente/verso)
+- 📲 Integração com WhatsApp para pedidos
+
+## 🛠️ Tecnologias utilizadas
+
+- Vue 3 (Composition API)
+- Quasar Framework
+- TypeScript
+- Vite
+
+## 📸 Preview
+
+_(adicione prints aqui depois 👀)_
+
+## ▶️ Como rodar o projeto
 
 ```bash
-yarn
-# or
 npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-
-```bash
 quasar dev
 ```
 
-### Lint the files
+## Scripts disponíveis
 
 ```bash
-yarn lint
-# or
 npm run lint
-```
-
-### Format the files
-
-```bash
-yarn format
-# or
 npm run format
-```
-
-### Build the app for production
-
-```bash
 quasar build
 ```
 
-### Customize the configuration
+## Objetivo
 
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+Este projeto foi desenvolvido com foco em prática de desenvolvimento frontend e simulação de um e-commerce real, com foco em usabilidade e experiência do usuário.
+
+## 🚀 Próximos passos
+
+- [ ] Adicionar carrinho de compras
+- [ ] Melhorar layout mobile
+- [ ] Implementar ordenação de produtos
+- [ ] Integração com API
+
+## Status do projeto
+
+🚧 Em desenvolvimento
+
+---
+
+Desenvolvido por Willian 💻
